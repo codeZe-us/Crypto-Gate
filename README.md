@@ -20,9 +20,7 @@ Crypto application is build in flutter for android and iOS devices. In this proj
 
 - Beautiful charts used for showing coins data.
 
-![Preview](./crypto_app.png)
 
-https://github.com/HypeTeqSoftware/CryptoMarketApp/assets/106724238/7ab4bea9-f1d9-4760-9558-a78f82f128ec
 
 
 Disclaimer
